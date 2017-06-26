@@ -1,3 +1,33 @@
 * {
-  font-family: Verdana;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.header {
+  background-image: url("../images/background.png");
+}
+
+#main-title {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#nav a {
+  color: white;
+  font-size: 18px;
+}
+
+#The-process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.head {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.subhead {
+  font-size: 14px;
 }
