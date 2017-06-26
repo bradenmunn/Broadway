@@ -4,7 +4,7 @@
 }
 
 .header {
-  background-image: url("../images/background.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 #main-title {
@@ -25,7 +25,7 @@
 
 #divider {
   color: white;
-  background-image: url("../images/background.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 h3 {
