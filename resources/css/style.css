@@ -14,7 +14,8 @@
   color: white;
 }
 
-#nav a {
+nav a,
+#footer .nav a{
   color: white;
   font-size: 18px;
 }
@@ -27,6 +28,14 @@
 #divider {
   color: white;
   background-image: url("../images/Background.png");
+}
+
+#footer p{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: White;
+  background-color: dimgray;
+  text-align: left;
 }
 
 h3 {
