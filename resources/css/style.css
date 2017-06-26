@@ -23,7 +23,12 @@
   font-weight: bold;
 }
 
-.head {
+#divider {
+  color: white;
+  background-image: url("../images/background.png")
+}
+
+h3 {
   font-size: 23px;
   font-weight: bold;
 }
